@@ -46,7 +46,7 @@ body {
     background-color: white;
     text-shadow: 0 0 0.2rem black;
     background: rgba(0,0,0,0.4);
-    transition: all 0.7s ease;
+    transition: all 0.07s ease;
 }
 
 .playing{
